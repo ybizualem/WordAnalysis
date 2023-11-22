@@ -1,0 +1,31 @@
+Python 3.10.7 (tags/v3.10.7:6cc6b13, Sep  5 2022, 14:08:36) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:/Users/yabse/OneDrive/Desktop/Documents/cs 115/project 1/wordanalysis.py
+56613 words use'a'
+16305 words use'b'
+30466 words use'c'
+30648 words use'd'
+76168 words use'e'
+11277 words use'f'
+24979 words use'g'
+19096 words use'h'
+60314 words use'i'
+1747 words use'j'
+8978 words use'k'
+40133 words use'l'
+22474 words use'm'
+49682 words use'n'
+44657 words use'o'
+22969 words use'p'
+1632 words use'q'
+54901 words use'r'
+64803 words use's'
+47279 words use't'
+28875 words use'u'
+8892 words use'v'
+8268 words use'w'
+2691 words use'x'
+13141 words use'y'
+3451 words use'z'
+and 'e' is the most frequently-used letter.

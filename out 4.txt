@@ -1,0 +1,31 @@
+Python 3.10.7 (tags/v3.10.7:6cc6b13, Sep  5 2022, 14:08:36) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:/Users/yabse/OneDrive/Desktop/Documents/cs 115/project 1/wordanalysis.py
+6557 words begin with 'a'
+6848 words begin with 'b'
+10385 words begin with 'c'
+6436 words begin with 'd'
+4364 words begin with 'e'
+4937 words begin with 'f'
+3950 words begin with 'g'
+4080 words begin with 'h'
+4013 words begin with 'i'
+1106 words begin with 'j'
+1312 words begin with 'k'
+3710 words begin with 'l'
+6270 words begin with 'm'
+2208 words begin with 'n'
+3978 words begin with 'o'
+8693 words begin with 'p'
+568 words begin with 'q'
+7141 words begin with 'r'
+12591 words begin with 's'
+5951 words begin with 't'
+2934 words begin with 'u'
+1932 words begin with 'v'
+2927 words begin with 'w'
+82 words begin with 'x'
+438 words begin with 'y'
+398 words begin with 'z'
+and's'is the most frequently-used first letter.
