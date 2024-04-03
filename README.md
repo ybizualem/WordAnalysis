@@ -8,7 +8,7 @@ The WordAnalysis project represents a comprehensive exploration into textual dat
 
 ### 1. File Handling
 
-The project demonstrates adept file management capabilities, particularly in reading and processing data from the `crosswords.txt` file. This involves efficient data extraction techniques to manipulate and analyze the textual information contained within.
+The project demonstrates adept file management capabilities, particularly in reading and processing data from the `crosswords.txt` file. This file contains around 113,000 english words. The process involves efficient data extraction techniques to manipulate and analyze the textual information contained within.
 
 ### 2. Word Length Analysis
 
